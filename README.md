@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 Bu proje DMCA tarafından korunmaktadır. Projenin içeriğinin veya görsellerin izinsiz kopyalanması, yeniden dağıtılması veya herhangi bir şekilde kullanılması yasaktır. Tespit edilmesi durumunda gerekli yasal işlemler başlatılır.
 
-[![DMCA Badge](https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png)](https://www.dmca.com/r/4dw15qz)
+[![DMCA Badge](https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png)](https://www.dmca.com/r/1q3ggm9)
 
 _____________________________________________________________________________________________________________
 
