@@ -8,21 +8,27 @@ Kullanıcı dostu arayüzü ve gelişmiş özellikleriyle sunucunuzu düzene sok
 _____________________________________________________________________________________________________________
 
 
+🚀  Minecraft - Discord Entegresi | MCDC V1
 
-✅ Sunucu aktif duyuru sistemi
+✅  Sunucu aktif duyuru sistemi ve sunucu bilgi sistemi
 
-✅ Sunucu bakım duyuru sistemi
+✅  Sunucu bakım duyuru sistemi (sebep | süre belirtme)
 
-✅ Sunucu detaylı bilgi sistemi
+✅  Her dakika sunucu aktifliğine göre güncellenen bot durumu
 
-✅ Her dakika güncel özelleştirilebilir bot durumu
+✅  Kullanıcılar için basit & ayarlanabilir !ip ve !sunucu komutları.
 
-✅ Her dakika güncellenen ayarlanabilir sunucu bilgi mesajı. 
+✅  Ayarlanabilir, mesaj log destekli gelişmiş destek talebi sistemi
 
-✅ Kullanıcılar için basit & ayarlanabilir !ip ve !sunucu komutları.
+✅  Oyunculardan öneri alın, spam korumalı yeni nesil butonlu öneri sistemi
+
+✅  Reklamsız sistem, kullanıcılarınıza takımımızın reklamını hiçbir şekilde yapmıyoruz.
 
 ✅ Oyun içerisine doğrudan entegre. Discord üzerinden sunucu konsoluna doğrudan erişim.
 
+✅  Lisanslı, yeni nesil altyapı. Kodların şifreli olmasına rağmen yeni komutlar ekleyebilir & ekletebilirsiniz.
+
+✅  Extra opsiyon olarak web script entegre imkanı mevcut. leaderos ve minexon yazılımlarına entegre imkanı.
 _____________________________________________________________________________________________________________
 
 Website: https://metehanstudio.com
